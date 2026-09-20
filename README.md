@@ -1,1 +1,2 @@
 # jarvis-model
+A desktop voice assistant built in Python. It captures microphone input, converts speech to text, matches the transcript against a set of defined commands, and triggers the corresponding action — opening a browser, running a web search, reporting the current time, and so on. Built as a hands-on exercise in speech recognition, text-to-speech, and Python's OS-level automation modules.
